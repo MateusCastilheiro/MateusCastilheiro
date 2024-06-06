@@ -10,9 +10,11 @@ Olá! Eu sou Mateus Castilheiro Garcia, estudante de Tecnólogo em Análise e De
 
 ### Auxiliar de Laboratório - OV Chemicals
 *Outubro 2022 - Presente*
-
-- Monitoramento e análise de dados de múltiplas fontes (Access SQL, Excel).
+- Apesar de atuar atualmente como colorista tenho as segiuntes skills.
+- Modelgaem de dados em Power BI e Tablaeu.
+- Monitoramento e análise de dados de múltiplas fontes.
 - Desenvolvimento de habilidades sólidas em análise de dados e resolução de problemas.
+  
 
 ### Supervisor de Laboratório - Grax Lubrificantes Especiais
 *Novembro 2021 - Setembro 2022*
@@ -23,7 +25,7 @@ Olá! Eu sou Mateus Castilheiro Garcia, estudante de Tecnólogo em Análise e De
 ### Auxiliar de Laboratório - Grax Lubrificantes Especiais
 *Junho 2020 - Novembro 2021*
 
-- Suporte nas atividades laboratoriais e análise de dados.
+- Suporte nas atividades laboratoriais.
 
 ### Atendente - Grupo Clareza Serviços
 *Outubro 2019 - Maio 2020*
